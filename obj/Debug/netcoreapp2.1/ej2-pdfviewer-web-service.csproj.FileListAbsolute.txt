@@ -1,0 +1,16 @@
+C:\Users\capstonestudent\Desktop\tibs\New folder\ej2-pdfviewer-web-service\ej2-pdfviewer-web-service\bin\Debug\netcoreapp2.1\web.config
+C:\Users\capstonestudent\Desktop\tibs\New folder\ej2-pdfviewer-web-service\ej2-pdfviewer-web-service\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\capstonestudent\Desktop\tibs\New folder\ej2-pdfviewer-web-service\ej2-pdfviewer-web-service\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\capstonestudent\Desktop\tibs\New folder\ej2-pdfviewer-web-service\ej2-pdfviewer-web-service\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\capstonestudent\Desktop\tibs\New folder\ej2-pdfviewer-web-service\ej2-pdfviewer-web-service\bin\Debug\netcoreapp2.1\ej2-pdfviewer-web-service.deps.json
+C:\Users\capstonestudent\Desktop\tibs\New folder\ej2-pdfviewer-web-service\ej2-pdfviewer-web-service\bin\Debug\netcoreapp2.1\ej2-pdfviewer-web-service.runtimeconfig.json
+C:\Users\capstonestudent\Desktop\tibs\New folder\ej2-pdfviewer-web-service\ej2-pdfviewer-web-service\bin\Debug\netcoreapp2.1\ej2-pdfviewer-web-service.runtimeconfig.dev.json
+C:\Users\capstonestudent\Desktop\tibs\New folder\ej2-pdfviewer-web-service\ej2-pdfviewer-web-service\bin\Debug\netcoreapp2.1\ej2-pdfviewer-web-service.dll
+C:\Users\capstonestudent\Desktop\tibs\New folder\ej2-pdfviewer-web-service\ej2-pdfviewer-web-service\bin\Debug\netcoreapp2.1\ej2-pdfviewer-web-service.pdb
+C:\Users\capstonestudent\Desktop\tibs\New folder\ej2-pdfviewer-web-service\ej2-pdfviewer-web-service\obj\Debug\netcoreapp2.1\ej2-pdfviewer-web-service.csprojAssemblyReference.cache
+C:\Users\capstonestudent\Desktop\tibs\New folder\ej2-pdfviewer-web-service\ej2-pdfviewer-web-service\obj\Debug\netcoreapp2.1\ej2-pdfviewer-web-service.AssemblyInfoInputs.cache
+C:\Users\capstonestudent\Desktop\tibs\New folder\ej2-pdfviewer-web-service\ej2-pdfviewer-web-service\obj\Debug\netcoreapp2.1\ej2-pdfviewer-web-service.AssemblyInfo.cs
+C:\Users\capstonestudent\Desktop\tibs\New folder\ej2-pdfviewer-web-service\ej2-pdfviewer-web-service\obj\Debug\netcoreapp2.1\ej2-pdfviewer-web-service.csproj.CoreCompileInputs.cache
+C:\Users\capstonestudent\Desktop\tibs\New folder\ej2-pdfviewer-web-service\ej2-pdfviewer-web-service\obj\Debug\netcoreapp2.1\ej2-pdfviewer-web-service.dll
+C:\Users\capstonestudent\Desktop\tibs\New folder\ej2-pdfviewer-web-service\ej2-pdfviewer-web-service\obj\Debug\netcoreapp2.1\ej2-pdfviewer-web-service.pdb
+C:\Users\capstonestudent\Desktop\tibs\New folder\ej2-pdfviewer-web-service\ej2-pdfviewer-web-service\obj\Debug\netcoreapp2.1\ej2-pdfviewer-web-service.genruntimeconfig.cache
